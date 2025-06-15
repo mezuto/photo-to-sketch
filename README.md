@@ -5,7 +5,7 @@ Turn Photos into Detailed Pencil Sketches Online - Photo to Sketch
 
 Transform your photos into stunning pencil sketches with our advanced online conversion tool. Perfect for creating artistic portraits, landscapes, illustrations, and more.
 
-**[Try the Live Demo](https://mate.tools/photo-sketch)** 🚀
+**[Try the Live Demo](https://mezuto.com/photo-sketch)** 🚀
 
 ![Photo to Sketch Demo](demo.png)
 
@@ -31,7 +31,7 @@ Transform your photos into stunning pencil sketches with our advanced online con
 
 ## Quick Start 🚀
 
-1. Visit [https://mate.tools/photo-sketch](https://mate.tools/photo-sketch)
+1. Visit [https://mezuto.com/photo-sketch](https://mezuto.com/photo-sketch)
 2. Upload your photo or drag and drop it
 3. Adjust the sketch settings:
    - Shadow Intensity: Control the darkness of shaded areas
@@ -149,7 +149,7 @@ MIT License - see [LICENSE.md](LICENSE.md) for details
 
 ## Support 💬
 
-- Visit our [live demo](https://mate.tools/photo-sketch)
+- Visit our [live demo](https://mezuto.com/photo-sketch)
 - [Open an issue](https://github.com/yourusername/photo-sketch/issues)
 - [Documentation](https://github.com/yourusername/photo-sketch/wiki)
 
@@ -171,4 +171,4 @@ A: Use high-contrast images, experiment with settings, and ensure good lighting 
 
 Made with ❤️ for artists and creators
 
-[Transform your photos now!](https://mate.tools/photo-sketch)
+[Transform your photos now!](https://mezuto.com/photo-sketch)
